@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/guirh1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guirh1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirh1&layout=compact&langs_count=7&theme=dark"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guirh1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
   <div style="display: inline_block"><br>
