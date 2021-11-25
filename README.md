@@ -7,8 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirh1&layout=compact&langs_count=7&theme=dark" />
 </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guirh1&show_icons=true&locale=en" alt="guirh1" /></p>
-
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
@@ -21,6 +19,8 @@
   <img align="center" alt="Gui-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Gui-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Gui-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
+
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/912490370502365227/912492038455455744/ezgif.com-gif-maker_1.gif?width=676&height=676">
 </div>
   
