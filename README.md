@@ -7,6 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirh1&layout=compact&langs_count=7&theme=dark" />
 </a>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guirh1&show_icons=true&locale=en" alt="guirh1" /></p>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
