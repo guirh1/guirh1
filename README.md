@@ -17,5 +17,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guirh1&" alt="guirh1" /></p>
 
-<h3 align="left">Piadinha dev:</h3>
+<h3 align="left">😂Piadinha dev:</h3>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
