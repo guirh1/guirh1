@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guirh1" alt="guirh1" /></a> </p>
 
-- 📄 Um pouco sobre mim Bacharel em Engenharia de software, desenvolvedor fullstack de aplicações web , mobile, aplicações destinadas a mecanica de jogos, especialista em redes e automação. Certificado pela Intelbras, Unifi, Cisco dentre outras. Atuo atualmente como CEO na empresa Nexun Tech e professor de desenvolvimento de sistemas na rede estadual de ensino Seed-PR](Bacharel em Engenharia de software, desenvolvedor fullstack de aplicações web , mobile, aplicações destinadas a mecanica de jogos, especialista em redes e automação. Certificado pela Intelbras, Unifi, Cisco dentre outras. Atuo atualmente como CEO na empresa Nexun Tech e professor de desenvolvimento de sistemas na rede estadual de ensino Seed-PR)
+- 📄 Um pouco sobre mim
+- Bacharel em Engenharia de software, desenvolvedor fullstack de aplicações web , mobile, aplicações destinadas a mecanica de jogos, especialista em redes e automação. Certificado pela Intelbras, Unifi, Cisco dentre outras. Atuo atualmente como CEO na empresa Nexun Tech e professor de desenvolvimento de sistemas na rede estadual de ensino Seed-PR](Bacharel em Engenharia de software, desenvolvedor fullstack de aplicações web , mobile, aplicações destinadas a mecanica de jogos, especialista em redes e automação. Certificado pela Intelbras, Unifi, Cisco dentre outras. Atuo atualmente como CEO na empresa Nexun Tech e professor de desenvolvimento de sistemas na rede estadual de ensino Seed-PR)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
