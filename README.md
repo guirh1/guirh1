@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guirh1&label=Profile%20views&color=0e75b6&style=flat" alt="guirh1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guirh1" alt="guirh1" /></a> </p>
 
 - 📄 Um pouco sobre mim
 - Bacharel em Engenharia de software, desenvolvedor fullstack de aplicações web , mobile, aplicações destinadas a mecanica de jogos, especialista em redes e automação. Certificado pela Intelbras, Unifi, Cisco dentre outras. Atuo atualmente como Presidente no Grupo Nexun e professor de desenvolvimento de sistemas na rede estadual de ensino Seed-PR
