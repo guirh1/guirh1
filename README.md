@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guirh1&" alt="guirh1" /></p>
 
 <h3 align="left">Frases de pensadores:</h3>
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light' style="height: 400px;"/>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light'/>
 
 <h3 align="left">😂Piadinha Dev Aleatória:</h3>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
