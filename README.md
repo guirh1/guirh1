@@ -16,6 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guirh1&show_icons=true&locale=en" alt="guirh1" /></p>
 
 <h3 align="left">Piadinha dev</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guirh1&" alt="guirh1" /></p>
